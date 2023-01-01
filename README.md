@@ -5,7 +5,7 @@ TimeAx package can be downloaded from github. Please make sure you have the devt
 
 ```R
 library(devtools)
-install_github("amitfrish/TimeAx")
+install_github("amitfrish/TimeAx@development")
 ```
 
 ## Training a TimeAx model
